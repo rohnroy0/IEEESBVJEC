@@ -343,3 +343,7 @@ footer .social-links li a:hover {
     color: white;
     cursor: pointer;
 }
+
+.navbar-nav .nav-link{
+    color: white !important;
+}
