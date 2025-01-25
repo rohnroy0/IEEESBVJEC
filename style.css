@@ -8,6 +8,22 @@ body {
     background-color: #f9f9f9;
 }
 
+.head1 {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.logo-name {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.college-name {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
 .container {
     width: 90%;
     max-width: 1200px;
@@ -156,11 +172,13 @@ header nav ul li.dropdown > a::after {
     background: #ffffff;
     text-align: center;
 }
-
+.logo {
+    border-radius: 2rem;
+}
 .highlights h2 {
     margin-bottom: 1.5rem;
     font-size: 2rem;
-    color: #00629B;
+    color:#5d90ba;
 }
 
 .highlights .cards {
