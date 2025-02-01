@@ -568,3 +568,77 @@ footer {
     transition: opacity 0.5s ease-in-out;
 }
     
+
+
+
+
+
+
+
+
+
+/* IEEE Chapters Section */
+.ieee-chapters {
+    background: #f8f9fa;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.ieee-chapters h2 {
+    font-size: 2rem;
+    color: #00497A;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+/* Grid Layout */
+.chapter-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+/* Chapter Card Styling */
+.chapter-card {
+    position: relative;
+    width: 200px; /* Consistent size */
+    height: 200px;
+    overflow: hidden;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+}
+
+/* Images - Ensuring they fit inside the box without cropping */
+.chapter-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;  /* Ensures the whole image is visible */
+    border-radius: 15px;
+    background: white; /* Keeps a clean background */
+}
+
+/* Chapter Name Overlay */
+.chapter-name {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: rgba(0, 73, 122, 0.85);
+    color: white;
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    opacity: 0.9;
+}
+
+/* Hover Effect */
+.chapter-card:hover {
+    transform: scale(1.1);
+}
+
