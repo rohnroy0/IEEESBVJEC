@@ -36,8 +36,12 @@ This is the official website for the **IEEE Student Branch, Vimal Jyothi Enginee
 
 ## 📸 Preview
 
-*(Add a screenshot after uploading it to the repo)*
-
+![](https://github.com/rohnroy0/IEEESBVJEC/blob/Main/preview04.1.png?raw=true)
+![](https://github.com/rohnroy0/IEEESBVJEC/blob/Main/preview04.2.png?raw=true)
+![](https://github.com/rohnroy0/IEEESBVJEC/blob/Main/preview04.3.png?raw=true)
+![](https://github.com/rohnroy0/IEEESBVJEC/blob/Main/preview04.4.png?raw=true)
+![](https://github.com/rohnroy0/IEEESBVJEC/blob/Main/preview04.5.png?raw=true)
+![](https://github.com/rohnroy0/IEEESBVJEC/blob/Main/preview04.6.png?raw=true)
 ---
 
 ## 🚀 How to Run
