@@ -2,7 +2,7 @@
 
 This is the official website for the **IEEE Student Branch, Vimal Jyothi Engineering College (VJEC)**. The site is designed to provide information about upcoming events, workshops, news, and general details about the student branch activities.
 
-🌐 **Live Site**: [https://rohnroy0.github.io/IEEESBVJEC/](https://rohnroy0.github.io/IEEESBVJEC/)
+🌐 **Live Site**: [View the site](https://rohnroy0.github.io/IEEESBVJEC/)
 
 ---
 
