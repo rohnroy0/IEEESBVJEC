@@ -44,4 +44,4 @@ This is the official website for the **IEEE Student Branch, Vimal Jyothi Enginee
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/rohnroy0/Color-Markers.git
+   git clone https://github.com/rohnroy0/IEEESBVJEC.git
